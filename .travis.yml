@@ -26,9 +26,9 @@ branches:
 
 deploy:
   provider: heroku
-  app: "citesteugen"
+  app: citesteugen
   api_key:
-    secure: "7c67b11f-97b9-4722-b591-68d092710960"
+    secure: '7c67b11f-97b9-4722-b591-68d092710960'
 
 cache:
   yarn: true
